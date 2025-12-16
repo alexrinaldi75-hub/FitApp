@@ -1,0 +1,12 @@
+Con Compass creare il databse GymDB e poi le seguenti collection:
+- users
+- exercises
+- sessions
+- workout_plans
+
+Dopo aver attivato l'ambiente virtuale (>venv\scripts\activate), eseguire lo script setup.py da prompt de comandi (>python setup.py)
+Lo script verifica che le collection users e exercises contengano documenti, se non contengono documenti vengono caricati i files users.json 
+(il valore della chiave "password_hash" viene criptato dallo script prima del caricamento) e  exercises.json, al termine del caricamento,
+viene mostrato il numero di documenti caricati per ogni collection. 
+
+Se le collection contengono già dei documenti, viene solo visualizzato il numero di documenti per ogni collection.

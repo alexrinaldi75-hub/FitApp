@@ -1,0 +1,257 @@
+    [
+        {
+            "name": "Barbell Squat",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Front Squat",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Leg Press",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Leg Extension",
+            "muscle_group": "Legs",
+            "type": "isolation"
+        },
+        {
+            "name": "Lying Leg Curl",
+            "muscle_group": "Legs",
+            "type": "isolation"
+        },
+        {
+            "name": "Seated Leg Curl",
+            "muscle_group": "Legs",
+            "type": "isolation"
+        },
+        {
+            "name": "Standing Calf Raise",
+            "muscle_group": "Legs",
+            "type": "isolation"
+        },
+        {
+            "name": "Seated Calf Raise",
+            "muscle_group": "Legs",
+            "type": "isolation"
+        },
+        {
+            "name": "Walking Lunge",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Bulgarian Split Squat",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Romanian Deadlift",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Hack Squat",
+            "muscle_group": "Legs",
+            "type": "compound"
+        },
+        {
+            "name": "Barbell Bench Press",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Incline Barbell Bench Press",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Dumbbell Bench Press",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Incline Dumbbell Press",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Dumbbell Fly",
+            "muscle_group": "Chest",
+            "type": "isolation"
+        },
+        {
+            "name": "Cable Crossover",
+            "muscle_group": "Chest",
+            "type": "isolation"
+        },
+        {
+            "name": "Push Up",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Chest Dip",
+            "muscle_group": "Chest",
+            "type": "compound"
+        },
+        {
+            "name": "Pec Deck Machine",
+            "muscle_group": "Chest",
+            "type": "isolation"
+        },
+        {
+            "name": "Conventional Deadlift",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Pull Up",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Chin Up",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Lat Pulldown",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Bent Over Barbell Row",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "One Arm Dumbbell Row",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Seated Cable Row",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "T-Bar Row",
+            "muscle_group": "Back",
+            "type": "compound"
+        },
+        {
+            "name": "Face Pull",
+            "muscle_group": "Back",
+            "type": "isolation"
+        },
+        {
+            "name": "Barbell Shrug",
+            "muscle_group": "Back",
+            "type": "isolation"
+        },
+        {
+            "name": "Overhead Press",
+            "muscle_group": "Shoulders",
+            "type": "compound"
+        },
+        {
+            "name": "Seated Dumbbell Press",
+            "muscle_group": "Shoulders",
+            "type": "compound"
+        },
+        {
+            "name": "Arnold Press",
+            "muscle_group": "Shoulders",
+            "type": "compound"
+        },
+        {
+            "name": "Dumbbell Lateral Raise",
+            "muscle_group": "Shoulders",
+            "type": "isolation"
+        },
+        {
+            "name": "Cable Lateral Raise",
+            "muscle_group": "Shoulders",
+            "type": "isolation"
+        },
+        {
+            "name": "Front Dumbbell Raise",
+            "muscle_group": "Shoulders",
+            "type": "isolation"
+        },
+        {
+            "name": "Reverse Pec Deck",
+            "muscle_group": "Shoulders",
+            "type": "isolation"
+        },
+        {
+            "name": "Upright Row",
+            "muscle_group": "Shoulders",
+            "type": "compound"
+        },
+        {
+            "name": "Barbell Curl",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Dumbbell Curl",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Hammer Curl",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Preacher Curl",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Cable Tricep Pushdown",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Skullcrusher",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Overhead Tricep Extension",
+            "muscle_group": "Arms",
+            "type": "isolation"
+        },
+        {
+            "name": "Close Grip Bench Press",
+            "muscle_group": "Arms",
+            "type": "compound"
+        },
+        {
+            "name": "Bench Dip",
+            "muscle_group": "Arms",
+            "type": "compound"
+        },
+        {
+            "name": "Hanging Leg Raise",
+            "muscle_group": "Abs",
+            "type": "isolation"
+        },
+        {
+            "name": "Cable Crunch",
+            "muscle_group": "Abs",
+            "type": "isolation"
+        },
+        {
+            "name": "Ab Wheel Rollout",
+            "muscle_group": "Abs",
+            "type": "compound"
+        }
+    ]

@@ -1,0 +1,30 @@
+    [
+		{
+		  "username": "alessandro.rinaldi",
+		  "password_hash": "admin",
+		  "change_pwd": true,
+		  "role": "admin", 
+		  "name": "Alessandro Rinaldi"
+		},
+		{
+		  "username": "mario.rossi",
+		  "password_hash": "pwdtrainer",
+		  "change_pwd": true,
+		  "role": "trainer", 
+		  "name": "Mario Rossi"
+		},
+		{
+		  "username": "paolo.mancini",
+		  "password_hash": "pwdathlete1",
+		  "change_pwd": true,
+		  "role": "athlete", 
+		  "name": "Paolo Mancini"
+		},		
+		{
+		  "username": "gianni.verdi",
+		  "password_hash": "pwdathlete2",
+		  "change_pwd": true,
+		  "role": "athlete", 
+		  "name": "Gianni Verdi"
+		}			
+    ]
